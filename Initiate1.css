@@ -37,7 +37,7 @@ header .nav li a {
 }
 header .nav li h1{
   color:antiquewhite;
-  margin-top:1rem;
+  margin-top:0.7rem;  
   margin-left: 26rem;
   padding-left:2rem;
   padding-right:2rem ;
@@ -73,7 +73,7 @@ header .nav li a:hover {
 }
 section {
   padding-left: 30rem;
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 h2 .titleText {
   color:#111;
