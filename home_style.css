@@ -29,7 +29,7 @@ p {
 .banner .content {
   max-width: 56.25rem;
   text-align: center;
-}
+} jniohiog
 .banner .content h2 {
   font-size: 5rem;
   color: #fff;
@@ -75,7 +75,7 @@ header {
   background: rgba(255, 255, 255, 0.834);
   border: 0.2rem groove rgba(208, 205, 205, 0.389);
   padding: 10px 100px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.01);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.01); 
 }
 header .logo_pic a {
   /* position: fixed;
